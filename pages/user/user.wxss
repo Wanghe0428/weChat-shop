@@ -105,10 +105,19 @@ page {
   border-bottom: 1rpx solid #ccc;
 }
 .user_content .user_main .main_info_wrap .app_info_contact {
+  background-color: #fff;
+  color: #808080;
   display: flex;
+  width: 100%;
+  font-weight: 400;
   justify-content: space-between;
 }
 .user_content .user_main .main_recommend_wrap {
+  color: #808080;
+  width: 100%;
+  font-weight: 400;
+  display: flex;
+  justify-content: left;
   margin-top: 30rpx;
   background-color: #fff;
   padding: 20rpx ;

@@ -53,13 +53,13 @@
     </view>
     <view class="main_address_wrap">收货地址管理</view>
     <view class="main_info_wrap">
-      <view class="app_info_item app_info_contact">
+      <button class="app_info_item app_info_contact" open-type="contact">
         <text>联系客服</text>
         <text>400-618-4000</text>
-      </view>
+      </button>
       <navigator url="/pages/feedback/feedback" class="app_info_item">意见反馈</navigator>
-      <view class="app_info_item">关于我们</view>
+      <navigator class="app_info_item" url="/pages/us/us">关于我们</navigator>
     </view>
-    <view class="main_recommend_wrap">把应用推荐给其他人</view>
+    <button class="main_recommend_wrap" open-type="share">把应用推荐给其他人</button>
   </view>
 </view>

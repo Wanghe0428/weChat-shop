@@ -73,5 +73,17 @@ Page({
         let pages = getCurrentPages();
         let goods_id = pages[pages.length - 1].options.goods_id
         this.getGoodInfo(goods_id)
+    },
+    // 点击轮播图图片预览的按钮
+    handleCheck(e) {
+        console.log(e);
+        // 先构造预览的图片数组
+        const urls = this.GoodInfo.pics.map(v => v.pics_mid);
+        wx.previewImage({
+            current: urls[e.currentTarget.dataset.index],
+            urls
+
+        });
+
     }
 })

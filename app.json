@@ -12,7 +12,8 @@
     "pages/feedback/feedback",
     "pages/login/login",
     "pages/auth/auth",
-    "pages/pay/pay"
+    "pages/pay/pay",
+    "pages/us/us"
   ],
   "window": {
     "backgroundTextStyle": "light",

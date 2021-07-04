@@ -3,5 +3,5 @@
         "searchInput": "../../components/searchIput/searchIput",
         "Tabs": "../../components/Tabs/Tabs"
     },
-    "navigationBarTitleText": "订单列表"
+    "navigationBarTitleText": "小贺-订单列表"
 }

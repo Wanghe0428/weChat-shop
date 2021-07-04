@@ -1,0 +1,5 @@
+<!-- pages/us/us.wxml -->
+<view>
+    <view>Welcome to the world of xinxinXiao and heWong!</view>
+    <view>Having a good time!</view>
+</view>

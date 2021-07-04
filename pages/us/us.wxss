@@ -1,0 +1,6 @@
+view {
+    margin: 20rpx;
+    font-size: 35rpx;
+    color: orangered;
+    font-weight: 600;
+}

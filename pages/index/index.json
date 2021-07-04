@@ -1,6 +1,6 @@
 {
-  "usingComponents": {
-    "searchInput": "../../components/searchIput/searchIput"
-  },
-  "navigationBarTitleText": "品优首页"
+    "usingComponents": {
+        "searchInput": "../../components/searchIput/searchIput"
+    },
+    "navigationBarTitleText": "小贺-品优首页"
 }
